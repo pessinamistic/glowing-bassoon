@@ -9,7 +9,7 @@ import lombok.experimental.FieldDefaults;
 public class User {
 
     String firstName;
-    String SecondName;
+    String secondName;
     String email;
 
 }
