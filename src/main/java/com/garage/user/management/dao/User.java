@@ -11,5 +11,5 @@ public class User {
     String firstName;
     String secondName;
     String email;
-
+    String password;
 }
